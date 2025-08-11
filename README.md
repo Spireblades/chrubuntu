@@ -47,7 +47,7 @@ A step-by-step guide on how to install custom firmware and ubuntu to your chrome
 <h1>Part 3: Installing Ubuntu</h1>
 
 
-<h2>The third, and (almost) final part of this, is to download your Linux distro, and install it to your disk!</h2>
+<h2>The third, and final part of this, is to download your Linux distro, and install it to your disk!</h2>
 
 <h4>Step 1: Insert your USB back into your computer.</h4>
 
