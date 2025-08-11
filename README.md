@@ -12,11 +12,11 @@ A step-by-step guide on how to install custom firmware and ubuntu to your chrome
 
 <h4>Step 2: Flash the shim to your USB using CRU or any other tool (BalenaEtcher is one you can use, and you <em><strong>WILL</em></strong> need it for the rest of this.</h4>
         
-<h4>Step 3: After the shim is finished, SAFELY remove it from your computer and enter recovery mode on your chromebook.</h4>
+<h4>Step 3: After the shim is finished, SAFELY remove it from your computer and enter recovery mode on your chromebook by pressing POWER + REFRESH + ESC.</h4>
 
 <h4>Step 4: Once in recovery mode, press CTRL + D and confirm that you want to enter developer mode (doesn't matter if it's blocked, if you can run shims, you're good.)</h4>
 
-<h4>Step 5: Insert the flashed USB into your chromebook, and let it work its magic.</h4>
+<h4>Step 5: After going into developer mode, re-enter recovery mode on your Chromebook. Insert the flashed USB into your chromebook, and let it work its magic.</h4>
 
 <h4>Step 6: Once you're in the SH1MMER screen, click Payloads, then Br0ker.</h4>
 
