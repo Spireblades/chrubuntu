@@ -33,7 +33,7 @@ A step-by-step guide on how to install custom firmware and ubuntu to your chrome
 
 <h4>Step 3: After you're in developer mode, go into quick setitngs (bottom right of the screen) and connect to your WiFi network.</h4>
 
-<h4>Step 4: Press CTRL-ALT-FORWARD in that order to open the VT2 shell.</h4>
+<h4>Step 4: Press CTRL-ALT-FORWARD at the same time to open the VT2 shell/terminal.</h4>
 
 <h4>Step 5: Sign in as user 'chronos' and don't try entering a password, as one should not exist. If one does, use shimboot to access a Linux terminal, then continue the process below.</h4>
 
