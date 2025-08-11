@@ -37,7 +37,7 @@ A step-by-step guide on how to install custom firmware and ubuntu to your chrome
 
 <h4>Step 5: Sign in as user 'chronos' and don't try entering a password, as one should not exist</h4>
 
-<h4>Step 6: Input this long script into the terminal: ```cd; curl -LOk mrchromebox.tech/firmware-util.sh && sudo bash firmware-util.sh```, then press enter.</h4>
+<h4>Step 6: Input this long script into the terminal: `cd; curl -LOk mrchromebox.tech/firmware-util.sh && sudo bash firmware-util.sh`, then press enter.</h4>
 
 <h4>Step 7: Once you're on the selection screen, hit 1. Don't hit anything else, as the other options require write protection to be disabled, and this is a guide for people who don't want to disable it.</h4>
 
